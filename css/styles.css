@@ -1,0 +1,30 @@
+body
+{ background-color:#a0f2f2
+}
+
+
+h1:houver{
+    color:rgb(221, 255, 1)
+}
+h3{
+    color: blue;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 5px;
+    width: 10%;
+}
+.titulo{
+    color: rgb(255, 0, 0);
+    
+}
+
+.profile{
+    border-radius: 100%;
+}
+.Education{
+    color:white;
+}
